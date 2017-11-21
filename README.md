@@ -1,6 +1,6 @@
 # Welcome to my Github page
 
-<a href="Me and my human."><img src="http://www.lovethispic.com/uploaded_images/254892-Cute-Angry-Cat.jpg" title="Me and my human" style="pointer-events: none"/></a>
+<a href="Me and my human."><img src="http://www.lovethispic.com/uploaded_images/254892-Cute-Angry-Cat.jpg" title="Me and my human" /></a>
 
 
 ### Current Projects...
