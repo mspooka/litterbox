@@ -1,6 +1,8 @@
 # Welcome to my Github page
 
-![Image](C:\Users\chunkier\Desktop\website develop\pics\new screens\heavy cat.jpg)
+<a href="https://imgur.com/p0la5JQ"><img style="float: middle;" src="https://i.imgur.com/p0la5JQ.png?1" title="source: imgur.com" /></a>
+
+<li style="clear: both;"><img style="float: left;" src="https://html-online.com/img/01-interactive-connection.png" alt="interactive connection" width="45" /> Interactive source editor</li>
 
 ### Markdown
 
