@@ -1,4 +1,4 @@
-### Welcome to my Github page
+# Welcome to my Github page
 
 You can use the [editor on GitHub](https://github.com/mspooka/litterbox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
