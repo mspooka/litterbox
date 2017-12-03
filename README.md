@@ -6,7 +6,7 @@
 
 
 Working on a website idea for a friend....
-<a href="Over Yonder Farms"><img src="C:\Users\chunkier\Desktop\website develop\pics\new screens\OverYonderFarmLogo.jpg" /></a>
+<a href="Over Yonder Farms"><img src="https://imgur.com/a/4EfP5" /></a>
 
 
 
