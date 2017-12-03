@@ -6,10 +6,9 @@
 
 
 Working on a website idea for a friend....
-<a href="Over Yonder Farms"><img src="https://imgur.com/a/4EfP5" /></a>
 
 
-
+<img src="https://i.imgur.com/zclNU7cm.jpg" />
 
 
 ```
