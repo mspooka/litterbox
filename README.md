@@ -5,7 +5,18 @@
 ### Current Projects...
 
 
-```markdown
+Working on a website idea for a friend....
+<a href="Over Yonder Farms"><img src="C:\Users\chunkier\Desktop\website develop\pics\new screens\OverYonderFarmLogo.jpg" /></a>
+
+
+
+
+
+```
+
+
+
+markdown
 Syntax highlighted code block
 
 # Header 1
