@@ -13,28 +13,23 @@ I hope this endeavor pans out for my friend.  If so, I'll build an e-commerce si
 
 ### Bots, bots, bots.........
 Its time to make a human-like conversation bot.  I setup a localhost Program O but I decided to try a more modern AI markup language.
+
+
 <img src="https://i.imgur.com/p361k7o.png" />
 
 
+So now I have gone with Dialogflow (Google API).....
+
+
+Here is the VR/AR rig that I want to attach the bot to (Unity)....
+
+<a href="https://imgur.com/B99MkS2"><img src="https://i.imgur.com/B99MkS2.png" title="source: imgur.com" /></a>
+
+
+Now I need to find some way to bridge Unity text with Dialogflow....
 
 ```
 
 
 
-markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
