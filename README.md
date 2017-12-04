@@ -5,10 +5,16 @@
 ### Current Projects...
 
 
-Working on a website idea for a friend....
-
+### Working on a website idea for a friend....
 
 <img src="https://i.imgur.com/zclNU7cm.jpg" />
+I hope this endeavor pans out for my friend.  If so, I'll build an e-commerce site for fresh farm meats. :)
+
+
+### Bots, bots, bots.........
+Its time to make a human-like conversation bot.  I setup a localhost Program O but I decided to try a more modern AI markup language.
+<img src="https://i.imgur.com/p361k7o.png" />
+
 
 
 ```
