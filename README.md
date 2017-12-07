@@ -57,5 +57,13 @@ string answerText;
 					}
 ```
 
+Code of the day
+```
+public void speak() {
 
+		Debug.Log("speak called " + apiai.fanswerText);
+		Speaker.Speak(apiai.fanswerText, rtv, Speaker.VoiceForName(voiceName), true, .9f, 1.5f, 1f);
+
+	}
+```
 
