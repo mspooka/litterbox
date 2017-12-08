@@ -67,3 +67,9 @@ public void speak() {
 	}
 ```
 
+I was able to put the POST/GET HTML requests in a separate thread using NINJA Thread, awesome tool....
+```
+	Task task;
+	this.StartCoroutineAsync(working(), out task);
+	yield return StartCoroutine(task.Wait());
+```
